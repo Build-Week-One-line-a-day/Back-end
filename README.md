@@ -70,10 +70,10 @@ Where :id in URL is user id
 
 Takes an object including:
 ```json
-`{
+{
     "title": "title",
     "contents": "contents"
-}`
+}
 ```
 
 Returns id of post
@@ -90,10 +90,10 @@ Where :id in URL is post id
 
 Takes an object including:
 ```json
-`{
+{
     "title": "title UPDATED",
     "contents": "contents UPDATED"
-}`
+}
 ```
 
 Returns 1 for successful update
